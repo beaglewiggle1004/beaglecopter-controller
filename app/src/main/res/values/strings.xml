@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Beagle Copter Controller</string>
+
+    <string name="title_activity_main">Beagle Copter Controller</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="throttle">Throttle</string>
+    <string name="toggle_automatic">Automatic</string>
+    <string name="toggle_hovering">Hovering</string>
+    <string name="toggle_camera">Camera</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="pref_connection">Connection Settings</string>
+    <string name="pref_host_address">Host Address</string>
+    <string name="pref_host_address_summary"></string>
+
+    <string name="socket_creation_failed">Socket creation failed</string>
+</resources>

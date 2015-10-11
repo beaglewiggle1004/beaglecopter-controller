@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0"
+        android:duration="650"
+        android:repeatMode="reverse"
+        android:repeatCount="infinite" />
+</set><!-- From: file:/Users/JTKIM/Study/BeaglecopterController/app/src/main/res/anim/tween.xml -->

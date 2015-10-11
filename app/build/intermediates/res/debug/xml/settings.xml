@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/pref_connection" >
+        <EditTextPreference
+            android:title="@string/pref_host_address"
+            android:summary="@string/pref_host_address_summary"
+            android:key="host_address"/>
+    </PreferenceCategory>
+
+</PreferenceScreen><!-- From: file:/Users/JTKIM/Study/BeaglecopterController/app/src/main/res/xml/settings.xml -->
